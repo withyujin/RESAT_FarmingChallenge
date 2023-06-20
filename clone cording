@@ -1,6 +1,5 @@
-# RESAT_FarmingChallenge
-<html lang="ko">
-<head>
+l# RESAT_FarmingChallenge
+<html lang="ko"><head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>미니인턴 | 2주 만에 실무 경험을 쌓고 취업하는 미니인턴</title>
@@ -8,6 +7,8 @@
   <link rel="stylesheet" href="./style.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans&amp;display=swap">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700&amp;display=swap">
+
+
 </head>
 <body>
   <div id="wrap">
@@ -726,6 +727,5 @@
       </div>
     </footer>
   </div>
-</body>
-</html>
- 
+
+</body></html>
